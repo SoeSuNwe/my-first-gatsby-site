@@ -1,1 +1,3 @@
 https://dgraph.io/docs/graphql/queries/and-or-not/
+
+https://www.gatsbyjs.com/docs/tutorial/getting-started/part-6/
